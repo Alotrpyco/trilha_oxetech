@@ -1,0 +1,15 @@
+.header{
+    background-color: blueviolet;
+    padding: 1rem 1rem 0; 
+    border: 1px solid black;
+}
+
+.dashbord{
+    margin-right: 50%;
+    border: 1px solid black;
+
+}
+.dashbord.imagem{
+    width:50%;
+    border-radius: 65px;
+}

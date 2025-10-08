@@ -22,18 +22,19 @@ li{
 }
 
 .botoes{
-    text-align: start;
-    padding-left: 13px;;
-    text-align: center;
+        text-align: start;
+        padding-left: 13px;;
+        text-align: center;
 }
 .botoes li{
+    
     border: 1px solid black;
-    width: 100px;
-    margin-bottom: 10px;
-    background-color: lightgray;
-    border-radius: 15px;
-    padding: 5px;
-    text-align: center;
+    margin: .5rem;
+    border-radius: 1rem;
+    padding: .5rem;
+    background-color: white;
+
+    
 
 }   
 .foto{
@@ -43,8 +44,8 @@ li{
 .skills{
     background-color: brown;
     margin-left: 30%;
-    margin-top: -70%;   
-    
+    margin-top: -37%;   
+    margin
     
 }
 .skills li{
